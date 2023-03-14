@@ -14,7 +14,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "",
+    "url": "https://github.com/a-ridley/cra-template-hedera-theme",
     "directory": ""
   },
   "license": "MIT",
