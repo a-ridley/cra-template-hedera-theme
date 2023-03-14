@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-hedera-theme",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "hedera",
+    "material-ui",
+    "mui"
+  ],
+  "description": "Hedera Themed Create React App Template with Material UI and Typescript",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "",
+    "directory": ""
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
