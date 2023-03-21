@@ -3,7 +3,7 @@ import { Stack } from "@mui/system";
 
 export default function Home() {
   return (
-    <Stack alignItems="center">
+    <Stack alignItems="center" spacing={4}>
       <Typography
         variant="h4"
         color="white"
