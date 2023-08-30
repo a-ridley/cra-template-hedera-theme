@@ -8,4 +8,4 @@ The template offers:
 - Global context for state management
 
 ### How to use
-```npx create-react-app <app-name> --template hedera-theme ```
+```npx create-react-app hbar-faucet-testing --template git+ssh://git@github.com/a-ridley/cra-template-hedera-theme.git ```
